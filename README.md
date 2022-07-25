@@ -1,5 +1,4 @@
 Stack:
-
 - Swift 4+, core iOS SDK frameworks (Foundation, UIKit, CoreData),
 - Interface Builder, code layout,
 - Basic knowledge of AV Foundation,
