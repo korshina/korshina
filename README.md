@@ -8,7 +8,7 @@ Stack:
 - Experience with GitHub, dependency managers Cocoapods, SPM,
 - Understanding the basics of testing (Unit-test),
 - Basic understanding and experience with SwiftUI,
-- English at the level of reading technical documentation,
+- English level - B1,
 - Experience with Sketch
 - Apple Developer Program, 1 app in the AppStore.
 
