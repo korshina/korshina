@@ -9,7 +9,7 @@ Stack:
 - Understanding the basics of testing (Unit-test),
 - Basic understanding and experience with SwiftUI,
 - English level - B1,
-- Experience with Sketch
+- Experience with Sketch,
 - Apple Developer Program, 1 app in the AppStore.
 
 
